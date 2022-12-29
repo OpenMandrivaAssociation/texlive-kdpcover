@@ -1,5 +1,5 @@
 Name:		texlive-kdpcover
-Version:	64582
+Version:	65150
 Release:	1
 Summary:	Covers for books published by Kindle Direct Publishing
 Group:		Publishing
