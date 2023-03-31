@@ -1,6 +1,6 @@
 Name:		texlive-kdpcover
 Version:	65150
-Release:	1
+Release:	2
 Summary:	Covers for books published by Kindle Direct Publishing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kdpcover
