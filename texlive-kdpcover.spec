@@ -3,7 +3,7 @@ Version:	65150
 Release:	2
 Summary:	Covers for books published by Kindle Direct Publishing
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kdpcover
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kdpcover
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kdpcover.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kdpcover.doc.r%{version}.tar.xz
